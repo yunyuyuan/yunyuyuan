@@ -2,8 +2,7 @@
 
 * My netname `yunyuyuan(云与原)` means `Cloud and Grassland`.
 
-* My avatar is inspired by *Monument Valley* ---- A thought about geometry and illusion.
-
+* My avatar is inspired by *Monument Valley* ---- Thoughts on Geometry and Illusion.
 * My `open source` projects: https://halberd.cn.
 
 * My blog：https://blog.halberd.cn.
