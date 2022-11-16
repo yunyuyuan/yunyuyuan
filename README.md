@@ -1,8 +1,8 @@
 →_→&nbsp;&nbsp;&nbsp;&nbsp;^_^
 
-* My netname `yunyuyuan(云与原)` means `Cloud and Grassland`.
+* My netname `yunyuyuan(云与原)` means `Cloud with Grassland`.
 
-* My avatar is inspired by *Monument Valley* ---- Thoughts on Geometry and Illusion.
+* My avatar is inspired by *[Monument Valley](https://www.monumentvalleygame.com/)* ---- Thoughts on Geometry and Illusion.
 * My `open source` projects: https://yunyuyuan.net.
 
 * My blog：https://blog.yunyuyuan.net.
