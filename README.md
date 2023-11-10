@@ -1,4 +1,4 @@
-# 🧰正在寻找合适的岗位，优先前端，欢迎邮箱联系。Currently looking for a suitable position, preferably in front-end development. Please feel free to contact me via email.
+# 🧰正在寻找合适的岗位，优先前端，欢迎邮箱联系。Currently looking for a suitable job, preferably in front-end development. Please feel free to contact me via email.
 
 →_→&nbsp;&nbsp;&nbsp;&nbsp;^_^
 
