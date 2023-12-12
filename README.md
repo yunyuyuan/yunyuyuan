@@ -21,8 +21,13 @@
 ![](https://img.shields.io/badge/-Docker-000?&logo=docker&color=333333)
 ![](https://img.shields.io/badge/-Openwrt-000?&logo=openwrt&color=333333)
 ![](https://img.shields.io/badge/-Raspberry_Pi-000?&logo=raspberrypi&color=333333)
+![](https://img.shields.io/badge/-Home_Assistant-000?&logo=homeassistant&color=333333)
 
 #### Using:
 ![](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro&color=333333)
-![](https://img.shields.io/badge/-vs_code-000?&logo=visualstudiocode&color=333333)
+![](https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode&color=333333)
 ![](https://img.shields.io/badge/-Neovim-000?&logo=neovim&color=333333)
+
+#### Learning:
+![](https://img.shields.io/badge/-Rust-000?&logo=rust&color=333333)
+![](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=fff&color=333333)
