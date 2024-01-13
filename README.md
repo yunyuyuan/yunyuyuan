@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/-Openwrt-000?&logo=openwrt&color=333333)
 ![](https://img.shields.io/badge/-Raspberry_Pi-000?&logo=raspberrypi&color=333333)
 ![](https://img.shields.io/badge/-Home_Assistant-000?&logo=homeassistant&color=333333)
+![](https://img.shields.io/badge/-STM32-000?&logo=stmicroelectronics&color=333333)
 
 #### Using:
 ![](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro&color=333333)
