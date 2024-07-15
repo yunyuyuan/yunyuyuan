@@ -16,10 +16,11 @@
 
 #### Developing:
 ![](https://img.shields.io/badge/-Typescript-000?&logo=typescript&color=333333)
-![](https://img.shields.io/badge/-Python-000?&logo=python&color=333333)
 ![](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs&color=333333)
 ![](https://img.shields.io/badge/-Angular-000?&logo=angular&color=333333)
 ![](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxtdotjs&color=333333)
+![](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs&color=333333)
+![](https://img.shields.io/badge/-Python-000?&logo=python&color=333333)
 
 #### Playing:
 ![](https://img.shields.io/badge/-Docker-000?&logo=docker&color=333333)
